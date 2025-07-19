@@ -17,7 +17,7 @@ This is a beginner-friendly AI/ML Streamlit app that classifies SMS-based transa
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/your-username/smart-expense-categorizer.git
+git clone [https://github.com/your-username/smart-expense-categorizer.git]
 cd smart-expense-categorizer
 pip install -r requirements.txt
 streamlit run app.py
